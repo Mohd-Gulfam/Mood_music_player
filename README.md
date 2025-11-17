@@ -38,8 +38,7 @@ IDE: IntelliJ / Eclipse / NetBeans (optional)
 
 Clone the project:
 
-git clone https://github.com/yourusername/MoodMusicPlayer.git
-
+git clone  https://github.com/Mohd-Gulfam/Mood_music_player
 
 Open the project in any Java IDE.
 
